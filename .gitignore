@@ -24,6 +24,7 @@ dist-ssr
 *.sw?
 
 # Large video files (hosted on Alibaba Cloud OSS)
+# Only exclude eater.mp4 (310MB)
 eater/eater.mp4
 public/eater/eater.mp4
 
