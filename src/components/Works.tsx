@@ -201,7 +201,7 @@ const Works = ({ selectedProject, onProjectExpand }) => {
               <>
                 <div className="relative w-full h-[400px] overflow-hidden">
                   <img
-                    src="/mori/入口 .png"
+                    src="/daijiaxuan2026/mori/入口 .png"
                     alt="MORIOR ITER"
                     className="absolute inset-0 w-full h-full object-cover"
                   />
@@ -225,7 +225,7 @@ const Works = ({ selectedProject, onProjectExpand }) => {
                       src={project.video}
                       controls
                       className="w-full aspect-video bg-gray-900 rounded-sm object-cover"
-                      poster="/mori/01.png"
+                      poster="/daijiaxuan2026/mori/01.png"
                     />
                     
                     {/* 只有不是从导航栏选择的，才显示展开按钮 */}
@@ -314,7 +314,7 @@ const Works = ({ selectedProject, onProjectExpand }) => {
                           
                           <div>
                             <img
-                              src="/mori/图片12.png"
+                              src="/daijiaxuan2026/mori/图片12.png"
                               alt="MORIOR ITER"
                               className="w-full max-w-sm rounded-sm"
                             />
@@ -408,7 +408,7 @@ const Works = ({ selectedProject, onProjectExpand }) => {
                             <div className="grid grid-cols-2 gap-8 mb-8">
                               <ScrollReveal type="left" delay={100} className="rounded-3xl overflow-hidden shadow-lg bg-white/5">
                                 <div className="aspect-video bg-white/10">
-                                  <img src="/mori/图片7.png" alt="Website Overview" className="w-full h-full object-cover" />
+                                  <img src="/daijiaxuan2026/mori/图片7.png" alt="Website Overview" className="w-full h-full object-cover" />
                                 </div>
                                 <div className="p-6">
                                   <div className="h-px bg-gray-200 mb-4"></div>
@@ -418,7 +418,7 @@ const Works = ({ selectedProject, onProjectExpand }) => {
                               </ScrollReveal>
                               <ScrollReveal type="right" delay={100} className="rounded-3xl overflow-hidden shadow-lg bg-white/5">
                                 <div className="aspect-video bg-white/10">
-                                  <img src="/mori/图片8.png" alt="Merchandise" className="w-full h-full object-cover" />
+                                  <img src="/daijiaxuan2026/mori/图片8.png" alt="Merchandise" className="w-full h-full object-cover" />
                                 </div>
                                 <div className="p-6">
                                   <div className="h-px bg-gray-200 mb-4"></div>
@@ -430,7 +430,7 @@ const Works = ({ selectedProject, onProjectExpand }) => {
                             <div className="grid grid-cols-2 gap-8">
                               <ScrollReveal type="left" delay={200} className="rounded-3xl overflow-hidden shadow-lg bg-white/5">
                                 <div className="aspect-video bg-white/10">
-                                  <img src="/mori/图片9.png" alt="Concept Pop-up Store" className="w-full h-full object-cover" />
+                                  <img src="/daijiaxuan2026/mori/图片9.png" alt="Concept Pop-up Store" className="w-full h-full object-cover" />
                                 </div>
                                 <div className="p-6">
                                   <div className="h-px bg-gray-200 mb-4"></div>
@@ -440,7 +440,7 @@ const Works = ({ selectedProject, onProjectExpand }) => {
                               </ScrollReveal>
                               <ScrollReveal type="right" delay={200} className="rounded-3xl overflow-hidden shadow-lg bg-white/5">
                                 <div className="aspect-video bg-white/10">
-                                  <img src="/mori/图片10.png" alt="Meme Culture" className="w-full h-full object-cover" />
+                                  <img src="/daijiaxuan2026/mori/图片10.png" alt="Meme Culture" className="w-full h-full object-cover" />
                                 </div>
                                 <div className="p-6">
                                   <div className="h-px bg-gray-200 mb-4"></div>
@@ -454,10 +454,10 @@ const Works = ({ selectedProject, onProjectExpand }) => {
                               <div className="rounded-3xl overflow-hidden shadow-lg bg-white/5">
                                 <div className="grid grid-cols-2">
                                   <div className="aspect-video bg-white/10">
-                                    <img src="/mori/13.jpg" alt="Cultural Exhibition 1" className="w-full h-full object-cover" />
+                                    <img src="/daijiaxuan2026/mori/13.jpg" alt="Cultural Exhibition 1" className="w-full h-full object-cover" />
                                   </div>
                                   <div className="aspect-video bg-white/10">
-                                    <img src="/mori/14.jpg" alt="Cultural Exhibition 2" className="w-full h-full object-cover" />
+                                    <img src="/daijiaxuan2026/mori/14.jpg" alt="Cultural Exhibition 2" className="w-full h-full object-cover" />
                                   </div>
                                 </div>
                                 <div className="p-6">
@@ -517,7 +517,7 @@ const Works = ({ selectedProject, onProjectExpand }) => {
                           <div className="grid md:grid-cols-2 gap-12 items-end">
                             <div>
                               <img
-                                src="/xiang/总海报.jpg"
+                                src="/daijiaxuan2026/xiang/总海报.jpg"
                                 alt="总海报"
                                 className="w-full rounded-lg"
                               />
@@ -751,7 +751,7 @@ const Works = ({ selectedProject, onProjectExpand }) => {
                   {/* 视频 */}
                   <div className="aspect-video">
                     <video
-                      src="/car/3.mp4"
+                      src="/daijiaxuan2026/car/3.mp4"
                       controls
                       className="w-full h-full object-cover rounded-lg shadow-md"
                     />
@@ -760,14 +760,14 @@ const Works = ({ selectedProject, onProjectExpand }) => {
                   <div className="grid grid-cols-3 gap-4 items-center">
                     <div>
                       <img
-                        src="/car/2.png"
+                        src="/daijiaxuan2026/car/2.png"
                         alt="脚本分镜1"
                         className="w-full aspect-square object-cover rounded-lg shadow-md"
                       />
                     </div>
                     <div>
                       <img
-                        src="/car/1.png"
+                        src="/daijiaxuan2026/car/1.png"
                         alt="脚本分镜2"
                         className="w-full aspect-square object-cover rounded-lg shadow-md"
                       />
@@ -795,14 +795,14 @@ const Works = ({ selectedProject, onProjectExpand }) => {
                   <div className="grid grid-cols-2 gap-4">
                     <div>
                       <img
-                        src="/eater/1.png"
+                        src="/daijiaxuan2026/eater/1.png"
                         alt="EATER 1"
                         className="w-full aspect-square object-cover rounded-lg shadow-md"
                       />
                     </div>
                     <div>
                       <img
-                        src="/eater/2.png"
+                        src="/daijiaxuan2026/eater/2.png"
                         alt="EATER 2"
                         className="w-full aspect-square object-cover rounded-lg shadow-md"
                       />
@@ -811,7 +811,7 @@ const Works = ({ selectedProject, onProjectExpand }) => {
                   {/* 第三行：图片3 */}
                   <div>
                     <img
-                      src="/eater/3.png"
+                      src="/daijiaxuan2026/eater/3.png"
                       alt="EATER 3"
                       className="w-full rounded-lg shadow-md"
                     />

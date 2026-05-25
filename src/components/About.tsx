@@ -28,7 +28,7 @@ const About = () => {
         <div className="grid md:grid-cols-5 gap-12 mt-8">
           <ScrollReveal type="left" delay={200} className="md:col-span-2">
             <img 
-              src="/photo.png"
+              src="/daijiaxuan2026/daijiaxuan2026/photo.png"
               alt="戴嘉轩"
               className="w-full aspect-[3/4] object-cover rounded-sm"
               loading="eager"
